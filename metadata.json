@@ -1,0 +1,6 @@
+{
+  "name": "Music Theory",
+  "description": "An interactive, comprehensive music theory and harmony tutor app featuring key lessons, interactive tools, chord charts, scale viewers, and circle of fifths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
